@@ -1,0 +1,94 @@
+.test {
+    background-color: #353a40 !important;
+}
+
+.container-fluid {
+    padding-left: 0% !important;
+}
+
+.sin-padding {
+    padding-right: 0 !important;
+}
+
+.padding-top {
+    padding-top: 2rem;
+}
+
+.color-gris {
+    color: #899ca0 !important;
+}
+
+.activo {
+    color: #ffffff !important;
+}
+
+.color-verde {
+    color: #2ce8a7 !important;
+}
+.titulo {
+    padding-top: 10rem;
+    padding-right: 7rem;
+  }
+  
+.letra-blanca {
+color: white;
+}
+
+.parrafo {
+padding-right: 7rem;
+padding-left: 60rem;
+}
+
+.margen {
+margin-right: 7rem;
+}
+
+.foto1 {
+background-image: url("./imagenes/ba1.jpg");
+/* background-color: red; */
+}
+
+.foto2 {
+    background-image: url("./imagenes/ba2.jpg");
+    /* background-color: red; */
+}
+
+.foto3 {
+        background-image: url("./imagenes/ba3.jpg");
+        /* background-color: red; */
+}
+
+.sin-padding {
+    padding: 0 !important;
+}
+
+.my-carousel-item {
+    height: 90vh !important;
+    object-fit: cover !important;
+}
+
+.fondo-gris {
+    background-color: #353a40;
+}
+
+.letra-blanca {
+    color: #ffffff;
+}
+
+.fondo-degradado {
+    background: linear-gradient(to right, #1b3743, #1d5270);   
+}
+
+.subrayado-punteado {
+    text-decoration: underline dotted;
+}
+
+.color-boton {
+    background-color: #96c93e;
+    border-color: #96c93e;
+}
+
+.color-boton:hover {
+    background-color: #96c93e;
+    border-color: #96c93e;
+}
